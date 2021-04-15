@@ -1,7 +1,7 @@
 # # Password Generator
 
 Click on the following link to get to the application:
-* ['Password-Generator GitHub IO'](hhttps://github.com/NoorA1125/password)
+* ['Password-Generator GitHub IO'](https://github.com/NoorA1125/password)
 
 The following images demonstrates the application functionality:
 ![password generator demo](./images/webpage1.png)
